@@ -17,3 +17,5 @@ process and develop indicators, classes and assign responsibilities.
 As a conclusion we can say that what is not measured, cannot be controlled and what is not controlled, cannot be managed,
 it is for this main reason that it is important in business to make decisions based on key performance indicators.
     Here one of my main tasks is to help in the process of strategy implementation using different tools.
+
+![Data sources portafolio covid](https://user-images.githubusercontent.com/112581327/217890207-1fad060f-3a0f-4820-ab47-acb139528c8f.gif)
