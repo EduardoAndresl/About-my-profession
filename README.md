@@ -11,12 +11,15 @@ To understand the function first  we have to understand the following issues ins
   <li> 60% of companies do not link budget and strategy.</li>
   </ol>
  
+ <h3> Main Goal </h3> 
+<ul>   
+<li>The main goal of management control is to reduce the gap between the planned (strategy) and actual performance (execution). </li>
+<li> At the operational and management control level, it is important to break down the processes to find key points in the 
+process and develop indicators and give responsibilities within the team. </li>
+<li> Also we can say that what is not measured, cannot be controlled and what is not controlled, cannot be managed, 
+     it is for this main reason that it is important in business to make decisions based on key performance indicators. </li>
+  </ul>
   
--The main objective of management control is to reduce the gap between the planned (strategy) and actual (execution).  
--At the operational and management control level, it is important to break down the processes to find key points in the 
-process and develop indicators, classes and assign responsibilities.
-As a conclusion we can say that what is not measured, cannot be controlled and what is not controlled, cannot be managed,
-it is for this main reason that it is important in business to make decisions based on key performance indicators.
-    Here one of my main tasks is to help in the process of strategy implementation using different tools.
 
+Here one of my main tasks is to help in the process of strategy implementation using different tools.
 ![Data sources portafolio covid](https://user-images.githubusercontent.com/112581327/217890207-1fad060f-3a0f-4820-ab47-acb139528c8f.gif)
