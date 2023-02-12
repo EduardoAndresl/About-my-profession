@@ -25,7 +25,14 @@ process and develop indicators and give responsibilities within the team. </li>
   
   
   <h3> Main business tools used by Management control Engineer </h3> 
-  <ul>
+  <ul> 
+  <li> KPI development and monitoring : 
+             <li>Profitability KPIs, such as gross profit margin and net profit margin.</li> 
+             <li>Liquidity KPIs, such as current ratio and quick ratio.</li> 
+             <li>Efficiency KPIs, such as inventory turnover and accounts receivable turnover.</li> 
+             <li>Valuation KPIs, such as earnings per share and price to earnings ratio.</li> 
+             <li>Leverage KPIs, such as debt to equity and return on equity. </li> 
+  
   <li> Excel( Data validation,vlookup,conditional formatting,if, countif). </li> 
   <li> Power BI : Connect to data, including multiple data sources, Shape the data with queries that build insightful,
        compelling data models ,Data visualitation, Dashboard, DAX (Data Analysis Expressions). </li> 
@@ -33,15 +40,36 @@ process and develop indicators and give responsibilities within the team. </li>
   <img width="831" alt="image" src="https://user-images.githubusercontent.com/112581327/218327680-50cb7a79-0645-4087-af82-93cfbd17235a.png">
 
   <li> SQL (Structured Query Language). </li>
-  <li> Tableau ( helps people and organizations be more data-driven, by connecting data and using visualitations). </li>
+  
+  <img width="864" alt="image" src="https://user-images.githubusercontent.com/112581327/218327818-adb414bb-3d4a-469b-9062-fce775680c0f.png">
+
+  <li> Tableau: Helps people and organizations be more data-driven, by connecting data and using visualitations. </li>
+  
+  <img width="1254" alt="image" src="https://user-images.githubusercontent.com/112581327/218327991-8e6c4b7b-b3c0-42f7-94a5-ceee5a7135d0.png">
+
   <li> Balanced Scorecard: A balanced scorecard is a strategic management performance metric that helps companies identify and improve their internal operations to help their external outcomes. It measures past performance data and provides organizations with feedback on how to make better decisions in the future. </li>
+  
+  <img width="1213" alt="image" src="https://user-images.githubusercontent.com/112581327/218328050-385c016a-2985-47b0-b240-4f8b751745c0.png">
+
   <li> Strategy map is a simple graphic that shows a logical, cause-and-effect connection between strategic objectives (shown as ovals on the map). It is one of the most powerful elements in the balanced scorecard methodology. </li> 
+  
+  <img width="1238" alt="image" src="https://user-images.githubusercontent.com/112581327/218328157-2282d2ce-6c35-4e1b-9972-31ce80d56ea7.png">
+
   <li> SWOT analysis is defined as a set of methods used to examine both internal and external factors that affect the performance of a company. </li> 
+  
+  <img width="493" alt="image" src="https://user-images.githubusercontent.com/112581327/218328261-62c4943d-207e-4570-9848-08a380b4eb03.png">
+
   <li> PEST analysis standing for Political, Economic, Sociological, and Technological is a method used to analyze the outside impacts on the performance of any enterprise. </li> 
+  
+  <img width="493" alt="image" src="https://user-images.githubusercontent.com/112581327/218328337-67ad1290-b303-48ab-be0b-3616bed455d7.png">
+
   <li> Activity flowcharts. </li> 
+  <img width="1073" alt="image" src="https://user-images.githubusercontent.com/112581327/218328585-c63aed03-b735-4b3b-b430-c5cb5013c2c1.png">
+  
   <li> Six Sigma. </li> 
   
-  
+  <img width="669" alt="image" src="https://user-images.githubusercontent.com/112581327/218328630-5cf7a9b2-a781-4952-91f2-7e858b89dc20.png">
+
   
 
 
