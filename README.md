@@ -27,8 +27,11 @@ process and develop indicators and give responsibilities within the team. </li>
   <h3> Main business tools used by Management control Engineer </h3> 
   <ul>
   <li> Excel( Data validation,vlookup,conditional formatting,if, countif). </li> 
-  <li> Power BI ( Connect to data, including multiple data sources, Shape the data with queries that build insightful,
+  <li> Power BI : Connect to data, including multiple data sources, Shape the data with queries that build insightful,
        compelling data models ,Data visualitation, Dashboard, DAX (Data Analysis Expressions). </li> 
+  
+  <img width="831" alt="image" src="https://user-images.githubusercontent.com/112581327/218327680-50cb7a79-0645-4087-af82-93cfbd17235a.png">
+
   <li> SQL (Structured Query Language). </li>
   <li> Tableau ( helps people and organizations be more data-driven, by connecting data and using visualitations). </li>
   <li> Balanced Scorecard: A balanced scorecard is a strategic management performance metric that helps companies identify and improve their internal operations to help their external outcomes. It measures past performance data and provides organizations with feedback on how to make better decisions in the future. </li>
