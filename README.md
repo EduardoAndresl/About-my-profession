@@ -1,5 +1,5 @@
 # About-my-profession
-
+What share of the population has been partly or fully vaccinated against COVID-19 ?
 <h3> Management Control Engineer </h3> 
 
 To understand the function first  we have to understand the following issues inside of a company:
