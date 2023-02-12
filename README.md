@@ -32,6 +32,13 @@ process and develop indicators and give responsibilities within the team. </li>
   <li> SQL (Structured Query Language). </li>
   <li> Tableau ( helps people and organizations be more data-driven, by connecting data and using visualitations). </li>
   <li> Balanced Scorecard: A balanced scorecard is a strategic management performance metric that helps companies identify and improve their internal operations to help their external outcomes. It measures past performance data and provides organizations with feedback on how to make better decisions in the future. </li>
+  <li> Strategy map is a simple graphic that shows a logical, cause-and-effect connection between strategic objectives (shown as ovals on the map). It is one of the most powerful elements in the balanced scorecard methodology. </li> 
+  <li> SWOT analysis is defined as a set of methods used to examine both internal and external factors that affect the performance of a company. </li> 
+  <li> PEST analysis standing for Political, Economic, Sociological, and Technological is a method used to analyze the outside impacts on the performance of any enterprise. </li> 
+  <li> Activity flowcharts. </li> 
+  <li> Six Sigma. </li> 
+  
+  
   
 
 
