@@ -26,13 +26,7 @@ process and develop indicators and give responsibilities within the team. </li>
   
   <h3> Main business tools used by Management control Engineer </h3> 
   <ul> 
-  <li> KPI development and monitoring : 
-             <li>Profitability KPIs, such as gross profit margin and net profit margin.</li> 
-             <li>Liquidity KPIs, such as current ratio and quick ratio.</li> 
-             <li>Efficiency KPIs, such as inventory turnover and accounts receivable turnover.</li> 
-             <li>Valuation KPIs, such as earnings per share and price to earnings ratio.</li> 
-             <li>Leverage KPIs, such as debt to equity and return on equity. </li> 
-  
+  <li> KPI development and monitoring Profitability KPIs, Liquidity,Efficiency,Leverage. </li> 
   <li> Excel( Data validation,vlookup,conditional formatting,if, countif). </li> 
   <li> Power BI : Connect to data, including multiple data sources, Shape the data with queries that build insightful,
        compelling data models ,Data visualitation, Dashboard, DAX (Data Analysis Expressions). </li> 
@@ -63,10 +57,11 @@ process and develop indicators and give responsibilities within the team. </li>
   
   <img width="493" alt="image" src="https://user-images.githubusercontent.com/112581327/218328337-67ad1290-b303-48ab-be0b-3616bed455d7.png">
 
-  <li> Activity flowcharts. </li> 
+  <li> Activity flowcharts: A flowchart is a picture of the separate steps of a process in sequential order </li> 
+  
   <img width="1073" alt="image" src="https://user-images.githubusercontent.com/112581327/218328585-c63aed03-b735-4b3b-b430-c5cb5013c2c1.png">
   
-  <li> Six Sigma. </li> 
+  <li> Six Sigma:It is defined as a method that provides tools to improve business process capabilities. </li> 
   
   <img width="669" alt="image" src="https://user-images.githubusercontent.com/112581327/218328630-5cf7a9b2-a781-4952-91f2-7e858b89dc20.png">
 
