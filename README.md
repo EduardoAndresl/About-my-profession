@@ -13,11 +13,13 @@ To understand the function first  we have to understand the following issues ins
  
  <h3> Main Goal </h3> 
 <ul>   
-<li>The main goal of management control is to reduce the gap between the planned (strategy) and actual performance (execution). </li>
+<li> The main goal of management control is to reduce the gap between the planned (strategy) and actual performance (execution). </li>
 <li> At the operational and management control level, it is important to break down the processes to find key points in the 
 process and develop indicators and give responsibilities within the team. </li>
 <li> Also we can say that what is not measured, cannot be controlled and what is not controlled, cannot be managed, 
      it is for this main reason that it is important in business to make decisions based on key performance indicators. </li>
+<li> Design strategies for planning, coordination and supervision of the different processes and activities of the company, including budget control.</li>
+<li> Analyze the causes of deviations from the objectives created, to propose corrective actions to achieve those goals.</li>
   </ul>
   
 
