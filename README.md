@@ -16,12 +16,16 @@ To understand the function first  we have to understand the following issues ins
 <li> The main goal of management control is to reduce the gap between the planned (strategy) and actual performance (execution). </li>
 <li> At the operational and management control level, it is important to break down the processes to find key points in the 
 process and develop indicators and give responsibilities within the team. </li>
-<li> Extract & analyze the data from a financial statement like Balance Sheet, Income Statement & Cash flow statement of the companies globally </li>
 <li> Also we can say that what is not measured, cannot be controlled and what is not controlled, cannot be managed, 
      it is for this main reason that it is important in business to make decisions based on key performance indicators. </li>
 <li> Design strategies for planning, coordination and supervision of the different processes and activities of the company, including budget control.</li>
 <li> Analyze the causes of deviations from the objectives created, to propose corrective actions to achieve those goals.</li>
+<li> Extract & analyze the data from a financial statement like Balance Sheet, Income Statement & Cash flow statement of the companies globally </li>  
   </ul>
+  
+  ![Data sources portafolio covid](https://user-images.githubusercontent.com/112581327/217890207-1fad060f-3a0f-4820-ab47-acb139528c8f.gif)
+  
+  
   
   
   <h3> Main business tools used by Management control Engineer </h3> 
@@ -65,8 +69,3 @@ process and develop indicators and give responsibilities within the team. </li>
   
   <img width="669" alt="image" src="https://user-images.githubusercontent.com/112581327/218328630-5cf7a9b2-a781-4952-91f2-7e858b89dc20.png">
 
-  
-
-
-Here one of my main tasks is to help in the process of strategy implementation using different tools.
-![Data sources portafolio covid](https://user-images.githubusercontent.com/112581327/217890207-1fad060f-3a0f-4820-ab47-acb139528c8f.gif)
